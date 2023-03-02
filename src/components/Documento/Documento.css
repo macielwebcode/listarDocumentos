@@ -1,0 +1,18 @@
+.container-documentos{
+    text-align: center;
+    padding: 32px;
+}
+
+.container-documentos h3{
+    font-size: 2rem;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.container-documentos .documentos-item-card{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+    flex-wrap: wrap;
+}

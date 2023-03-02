@@ -1,0 +1,13 @@
+.botao{
+    background-color: orange;
+    color: #ffffff;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 1.125rem;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    margin: 36px 0;
+    max-width: 99%;
+    width: 99%;
+}

@@ -1,0 +1,8 @@
+.banner{
+    background-color: wheat;
+    text-align: center;
+    padding: 45px 0
+}
+.banner img{
+    max-width: 100%;
+}
