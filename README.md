@@ -1,6 +1,11 @@
 # Projeto Listar Solicitações de Documentos
 Página com um form para adicionar uma solicitação de documento
 
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=Vercel&message=deploy&color=blue&style=for-the-badge&logo=VERCEL"/>
+
+Status do Projeto: ✔️ (concluido)
+
 ## Descrição
 Projeto feito com react e css, permitindo que o usuário crie uma solicitação de documento e visualize o card do documento solicitado na mesma página. Os cards com a solicitação de documento estão listados de acordo com o campo: tipo de documento.
 
@@ -20,7 +25,7 @@ Projeto feito com react e css, permitindo que o usuário crie uma solicitação 
 ### `npm start`
 
 
-## Projeto Publicado na Vercel
+## Deploy da Aplicação
 - ``Link do projeto online:`` https://listar-documentos.vercel.app/
 
 
