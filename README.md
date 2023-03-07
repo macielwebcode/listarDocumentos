@@ -7,17 +7,24 @@ Projeto feito com react e css, permitindo que o usuário crie uma solicitação 
 ✔️ Técnicas e tecnologias utilizadas
 - ``React``
 - ``CSS``
+- ``Javascript``
+
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: cadastrar um documento
+- `Funcionalidade 2`: listar documento cadastrado de acordo com tipo de documento
 
 
-
-Para rodar o projeto
+# 🛠️ Abrir e rodar o projeto
 ### `npm install`
 ### `npm start`
 
 
+## Projeto Publicado na Vercel
+- ``Link do projeto online:`` https://listar-documentos.vercel.app/
+
+
 ## Learn More React
-
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
